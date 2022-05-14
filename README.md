@@ -1,2 +1,5 @@
-# loag-krad
-GM resources for Loag Krad
+# Loag Krad
+
+This repository contains GM resources for Loag Krad.
+
+*   [History](./history.md)
