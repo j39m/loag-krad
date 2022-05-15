@@ -38,15 +38,29 @@ Krad, relocating all humans within their duchy.
 
 Despite Hervdon's magical prowess and his wealth of knowledge, he can
 be a bit awkward and unpersonable. His manner frequently leans too
-heavily into the haughty manners of a high duke.
+heavily into the haughty manners of a high duke. He has no concrete
+plan for dealing with the incumbent pugilist faction of his house, and
+relies on the insight of his younger brother to recruit for his
+reformist faction.
+
+As Warden of Loag Krad, Hervdon never ventures inside without the Scroll
+of Safe Passage. This family heirloom allows the bearer (and guests they
+select) to freely leave Loag Krad without ill effects.
 
 ## Prince Edroen
 
 Edroen Gathellys, second son of Duke Gathellys, has no outstanding
 qualities. He is well-read and a competent mage, but does not exceed his
-elder brother in either regard. Edroen is well-respected as a dutiful
-assistant to the future duke of House Gathellys.
+elder brother in either regard. With little pressure to succeed the
+duke, Edroen is noticeably more charismatic, friendly, and easy to get
+along with. He is well-respected as a dutiful assistant to the future
+duke of House Gathellys.
 
 This is all a lie. Edroen is extremely well-versed in politics, warfare,
 and magic. He almost certainly rivals (and possibly exceeds) Hervdon in
-sorcery.
+sorcery. Hervdon's worst failing - one that will prove fatal - was not
+noticing Edroen's treachery. Today, Edroen _leads_ the pugilist faction
+from the shadows, tending gently to the long-held dream of bridling Loag
+Krad for military use. He's careful to shield the more goody-two-shoes
+activities of his older brother from the duke, giving him just enough
+rope to hang himself.
