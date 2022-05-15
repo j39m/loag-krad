@@ -2,5 +2,5 @@
 
 This repository contains GM resources for Loag Krad.
 
-*   [History](./history.md)
+*   [Setting](./setting.md)
 *   [Locales](./locales.md)
