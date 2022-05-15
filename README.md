@@ -7,3 +7,4 @@ revealed to PCs.
 
 *   [Setting](./setting.md)
 *   [Locales](./locales.md)
+*   ["Princes"](./princes.md)
