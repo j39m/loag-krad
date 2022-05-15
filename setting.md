@@ -1,8 +1,5 @@
 # Setting
 
-This document describes _massive_ spoilers and must not be casually
-revealed to PCs.
-
 ## People
 
 "Loag Krad" is the name given to the enormous labyrinth of caves beneath
