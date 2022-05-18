@@ -35,3 +35,39 @@ and makes no demands, but appears to exercise some magical influence
 over the whole. Those who seriously wish to leave Loag Krad - like this
 fine party of PCs - might consider venturing to the darkest depths to
 make entreaty of this person?
+
+## Loag Krad
+
+### Key Item: Scroll of Safe Passage
+
+The Scroll of Safe Passage is a relic of unknown origin. It grants the
+bearer (plus several guests of their choosing) protection from the worst
+effects of Loag Krad.
+
+In particular, the scroll has the following properties:
+
+*   _Guidance_. The bearer cannot fast-travel freely between levels, but
+    can (with the influence of the scroll) reliably find the ingress and
+    egress points of each level.
+*   _Protection_. The bearer is not immune to attacks or aggression, but
+    most things dwelling within Loag Krad are more likely to overlook
+    the bearer.
+*   _Exit Guarantee_. The bearer can safely leave Loag Krad without ill
+    effect.
+
+### Key Item: Warden's Scroll
+
+The Warden's Scroll is a relic of unknown origin. It is a more powerful
+version of the Scroll of Safe Passage, granting the bearer (plus several
+guests of their choosing) protection from most effects of Loag Krad.
+
+In particular, the scroll has the following properties:
+
+*   _Guidance_. The scroll provides four charges with which the bearer
+    can teleport to any point inside Loag Krad. Every day, the scroll
+    regains `1d4` charges.
+*   _Dominion_. The bearer is not immune to attacks or aggression, but
+    gains a massive edge in intimidation and charisma, staying the hand
+    of all but the bravest hearts.
+*   _Exit Guarantee_. The bearer can safely leave Loag Krad without ill
+    effect.
